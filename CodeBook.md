@@ -54,7 +54,7 @@ Average time-domain gravity acceleration in the X, Y and Z directions:
 11. `timeDomainGravityAccelerometerMeanZ`
 
 Standard deviation of the time-domain gravity acceleration in the X, Y and Z directions:
-
+{:start="12"}
 12. `timeDomainGravityAccelerometerStandardDeviationX`
 13. `timeDomainGravityAccelerometerStandardDeviationY`
 14. `timeDomainGravityAccelerometerStandardDeviationZ`
