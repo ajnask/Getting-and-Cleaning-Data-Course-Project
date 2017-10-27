@@ -37,7 +37,7 @@ Each row contains, for a given subject and activity, 79 averaged signal measurem
 
 Average time-domain body acceleration in the X, Y and Z directions:
 
-3. `timeDomainBodyAccelerometerMeanX`**
+3. `timeDomainBodyAccelerometerMeanX`
 4. `timeDomainBodyAccelerometerMeanY`
 5. `timeDomainBodyAccelerometerMeanZ`
 
@@ -48,6 +48,7 @@ Standard deviation of the time-domain body acceleration in the X, Y and Z direct
 8. `timeDomainBodyAccelerometerStandardDeviationZ`
 
 Average time-domain gravity acceleration in the X, Y and Z directions:
+
 9. `timeDomainGravityAccelerometerMeanX`
 10. `timeDomainGravityAccelerometerMeanY`
 1. `timeDomainGravityAccelerometerMeanZ`
