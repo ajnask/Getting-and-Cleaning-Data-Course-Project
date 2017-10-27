@@ -193,6 +193,7 @@ Average, standard deviation, and weighted average of the frequency components of
 1. `frequencyDomainBodyGyroscopeMagnitudeMeanFrequency`
 
 Average, standard deviation, and weighted average of the frequency components of the frequency-domain magnitude of body angular velocity jerk (derivation of the angular velocity in time):
+
 79. `frequencyDomainBodyGyroscopeJerkMagnitudeMean`
 1. `frequencyDomainBodyGyroscopeJerkMagnitudeStandardDeviation`
 1. `frequencyDomainBodyGyroscopeJerkMagnitudeMeanFrequency`
