@@ -35,21 +35,22 @@ Each row contains, for a given subject and activity, 79 averaged signal measurem
     * Time-domain signals (variables prefixed with `timeDomain`), resulting from accelerometer and gyroscope raw signals.
     * Frequencey-domain signals (variables prefixed with `frequencyDomain`), resulting from the application of Fast Fourier Transform (FFT) to some of the time-domain signals.
 
-    Average time-domain body acceleration in the X, Y and Z directions:
+Average time-domain body acceleration in the X, Y and Z directions:
 
-3. **`timeDomainBodyAccelerometerMeanX`**
+3. `timeDomainBodyAccelerometerMeanX`**
 4. `timeDomainBodyAccelerometerMeanY`
 5. `timeDomainBodyAccelerometerMeanZ`
 
-### Standard deviation of the time-domain body acceleration in the X, Y and Z directions:
-6. timeDomainBodyAccelerometerStandardDeviationX
-timeDomainBodyAccelerometerStandardDeviationY
-timeDomainBodyAccelerometerStandardDeviationZ
+Standard deviation of the time-domain body acceleration in the X, Y and Z directions:
 
-### Average time-domain gravity acceleration in the X, Y and Z directions:
-timeDomainGravityAccelerometerMeanX
-timeDomainGravityAccelerometerMeanY
-timeDomainGravityAccelerometerMeanZ
+6. `timeDomainBodyAccelerometerStandardDeviationX`
+7. `timeDomainBodyAccelerometerStandardDeviationY`
+8. `timeDomainBodyAccelerometerStandardDeviationZ`
+
+Average time-domain gravity acceleration in the X, Y and Z directions:
+9. `timeDomainGravityAccelerometerMeanX`
+10. `timeDomainGravityAccelerometerMeanY`
+1. `timeDomainGravityAccelerometerMeanZ`
 
 ### Standard deviation of the time-domain gravity acceleration in the X, Y and Z directions:
 timeDomainGravityAccelerometerStandardDeviationX
