@@ -51,84 +51,84 @@ Average time-domain gravity acceleration in the X, Y and Z directions:
 
 9. `timeDomainGravityAccelerometerMeanX`
 10. `timeDomainGravityAccelerometerMeanY`
-1. `timeDomainGravityAccelerometerMeanZ`
+11. `timeDomainGravityAccelerometerMeanZ`
 
 Standard deviation of the time-domain gravity acceleration in the X, Y and Z directions:
 
-1. `timeDomainGravityAccelerometerStandardDeviationX`
-1. `timeDomainGravityAccelerometerStandardDeviationY`
-1. `timeDomainGravityAccelerometerStandardDeviationZ`
+12. `timeDomainGravityAccelerometerStandardDeviationX`
+13. `timeDomainGravityAccelerometerStandardDeviationY`
+14. `timeDomainGravityAccelerometerStandardDeviationZ`
 
 Average time-domain body acceleration jerk (derivation of the acceleration in time) in the X, Y and Z directions:
 
-1. `timeDomainBodyAccelerometerJerkMeanX`
-1. `timeDomainBodyAccelerometerJerkMeanY`
-1. `timeDomainBodyAccelerometerJerkMeanZ`
+15. `timeDomainBodyAccelerometerJerkMeanX`
+16. `timeDomainBodyAccelerometerJerkMeanY`
+17. `timeDomainBodyAccelerometerJerkMeanZ`
 
 Standard deviation of the time-domain body acceleration jerk (derivation of the acceleration in time) in the X, Y and Z directions:
 
-1. `timeDomainBodyAccelerometerJerkStandardDeviationX`
-1. `timeDomainBodyAccelerometerJerkStandardDeviationY`
-1. `timeDomainBodyAccelerometerJerkStandardDeviationZ`
+18. `timeDomainBodyAccelerometerJerkStandardDeviationX`
+19. `timeDomainBodyAccelerometerJerkStandardDeviationY`
+20. `timeDomainBodyAccelerometerJerkStandardDeviationZ`
 
 Average time-domain body angular velocity in the X, Y and Z directions:
 
-1. `timeDomainBodyGyroscopeMeanX`
-1. `timeDomainBodyGyroscopeMeanY`
-1. `timeDomainBodyGyroscopeMeanZ`
+21. `timeDomainBodyGyroscopeMeanX`
+22. `timeDomainBodyGyroscopeMeanY`
+23. `timeDomainBodyGyroscopeMeanZ`
 
 Standard deviation of the time-domain body angular velocity in the X, Y and Z directions:
 
-1. `timeDomainBodyGyroscopeStandardDeviationX`
-1. `timeDomainBodyGyroscopeStandardDeviationY`
-1. `timeDomainBodyGyroscopeStandardDeviationZ`
+24. `timeDomainBodyGyroscopeStandardDeviationX`
+25. `timeDomainBodyGyroscopeStandardDeviationY`
+26. `timeDomainBodyGyroscopeStandardDeviationZ`
 
 Average time-domain body angular velocity jerk (derivation of the angular velocity in time) in the X, Y and Z directions:
 
-1. `timeDomainBodyGyroscopeJerkMeanX`
+27. `timeDomainBodyGyroscopeJerkMeanX`
 1. `timeDomainBodyGyroscopeJerkMeanY`
 1. `timeDomainBodyGyroscopeJerkMeanZ`
 
 Standard deviation of the time-domain body angular velocity jerk (derivation of the angular velocity in time) in the X, Y and Z directions:
 
-1. `timeDomainBodyGyroscopeJerkStandardDeviationX`
+30. `timeDomainBodyGyroscopeJerkStandardDeviationX`
 1. `timeDomainBodyGyroscopeJerkStandardDeviationY`
 1. `timeDomainBodyGyroscopeJerkStandardDeviationZ`
 
 Average and standard deviation of the time-domain magnitude of body acceleration:
 
-1. `timeDomainBodyAccelerometerMagnitudeMean`
+33. `timeDomainBodyAccelerometerMagnitudeMean`
 1. `timeDomainBodyAccelerometerMagnitudeStandardDeviation`
 
 Average and standard deviation of the time-domain magnitude of gravity acceleration:
 
-1. `timeDomainGravityAccelerometerMagnitudeMean`
+35. `timeDomainGravityAccelerometerMagnitudeMean`
 1. `timeDomainGravityAccelerometerMagnitudeStandardDeviation`
 
 Average and standard deviation of the time-domain magnitude of body acceleration jerk (derivation of the acceleration in time):
 
-1. `timeDomainBodyAccelerometerJerkMagnitudeMean`
+37. `timeDomainBodyAccelerometerJerkMagnitudeMean`
 1. `timeDomainBodyAccelerometerJerkMagnitudeStandardDeviation`
 
 Average and standard deviation of the time-domain magnitude of body angular velocity:
 
-1. `timeDomainBodyGyroscopeMagnitudeMean`
+39. `timeDomainBodyGyroscopeMagnitudeMean`
 1. `timeDomainBodyGyroscopeMagnitudeStandardDeviation`
 
 Average and standard deviation of the time-domain magnitude of body angular velocity jerk (derivation of the angular velocity in time):
 
-1. `timeDomainBodyGyroscopeJerkMagnitudeMean`
+41. `timeDomainBodyGyroscopeJerkMagnitudeMean`
 1. `timeDomainBodyGyroscopeJerkMagnitudeStandardDeviation`
 
 Average frequency-domain body acceleration in the X, Y and Z directions:
 
-1. `frequencyDomainBodyAccelerometerMeanX`
+43. `frequencyDomainBodyAccelerometerMeanX`
 1. `frequencyDomainBodyAccelerometerMeanY`
 1. `frequencyDomainBodyAccelerometerMeanZ`
 
 Standard deviation of the frequency-domain body acceleration in the X, Y and Z directions:
 
-1. `frequencyDomainBodyAccelerometerStandardDeviationX`
+46. `frequencyDomainBodyAccelerometerStandardDeviationX`
 1. `frequencyDomainBodyAccelerometerStandardDeviationY`
 1. `frequencyDomainBodyAccelerometerStandardDeviationZ`
 
