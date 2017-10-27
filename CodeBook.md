@@ -53,122 +53,159 @@ Average time-domain gravity acceleration in the X, Y and Z directions:
 10. `timeDomainGravityAccelerometerMeanY`
 1. `timeDomainGravityAccelerometerMeanZ`
 
-### Standard deviation of the time-domain gravity acceleration in the X, Y and Z directions:
-timeDomainGravityAccelerometerStandardDeviationX
-timeDomainGravityAccelerometerStandardDeviationY
-timeDomainGravityAccelerometerStandardDeviationZ
+Standard deviation of the time-domain gravity acceleration in the X, Y and Z directions:
 
-### Average time-domain body acceleration jerk (derivation of the acceleration in time) in the X, Y and Z directions:
-timeDomainBodyAccelerometerJerkMeanX
-timeDomainBodyAccelerometerJerkMeanY
-timeDomainBodyAccelerometerJerkMeanZ
+1. `timeDomainGravityAccelerometerStandardDeviationX`
+1. `timeDomainGravityAccelerometerStandardDeviationY`
+1. `timeDomainGravityAccelerometerStandardDeviationZ`
 
-### Standard deviation of the time-domain body acceleration jerk (derivation of the acceleration in time) in the X, Y and Z directions:
-timeDomainBodyAccelerometerJerkStandardDeviationX
-timeDomainBodyAccelerometerJerkStandardDeviationY
-timeDomainBodyAccelerometerJerkStandardDeviationZ
+Average time-domain body acceleration jerk (derivation of the acceleration in time) in the X, Y and Z directions:
 
-### Average time-domain body angular velocity in the X, Y and Z directions:
-timeDomainBodyGyroscopeMeanX
-timeDomainBodyGyroscopeMeanY
-timeDomainBodyGyroscopeMeanZ
+1. `timeDomainBodyAccelerometerJerkMeanX`
+1. `timeDomainBodyAccelerometerJerkMeanY`
+1. `timeDomainBodyAccelerometerJerkMeanZ`
 
-### Standard deviation of the time-domain body angular velocity in the X, Y and Z directions:
-timeDomainBodyGyroscopeStandardDeviationX
-timeDomainBodyGyroscopeStandardDeviationY
-timeDomainBodyGyroscopeStandardDeviationZ
+Standard deviation of the time-domain body acceleration jerk (derivation of the acceleration in time) in the X, Y and Z directions:
 
-### Average time-domain body angular velocity jerk (derivation of the angular velocity in time) in the X, Y and Z directions:
-timeDomainBodyGyroscopeJerkMeanX
-timeDomainBodyGyroscopeJerkMeanY
-timeDomainBodyGyroscopeJerkMeanZ
+1. `timeDomainBodyAccelerometerJerkStandardDeviationX`
+1. `timeDomainBodyAccelerometerJerkStandardDeviationY`
+1. `timeDomainBodyAccelerometerJerkStandardDeviationZ`
 
-### Standard deviation of the time-domain body angular velocity jerk (derivation of the angular velocity in time) in the X, Y and Z directions:
-timeDomainBodyGyroscopeJerkStandardDeviationX
-timeDomainBodyGyroscopeJerkStandardDeviationY
-timeDomainBodyGyroscopeJerkStandardDeviationZ
+Average time-domain body angular velocity in the X, Y and Z directions:
 
-### Average and standard deviation of the time-domain magnitude of body acceleration:
-timeDomainBodyAccelerometerMagnitudeMean
-timeDomainBodyAccelerometerMagnitudeStandardDeviation
+1. `timeDomainBodyGyroscopeMeanX`
+1. `timeDomainBodyGyroscopeMeanY`
+1. `timeDomainBodyGyroscopeMeanZ`
 
-### Average and standard deviation of the time-domain magnitude of gravity acceleration:
-timeDomainGravityAccelerometerMagnitudeMean
-timeDomainGravityAccelerometerMagnitudeStandardDeviation
+Standard deviation of the time-domain body angular velocity in the X, Y and Z directions:
 
-### Average and standard deviation of the time-domain magnitude of body acceleration jerk (derivation of the acceleration in time):
-timeDomainBodyAccelerometerJerkMagnitudeMean
-timeDomainBodyAccelerometerJerkMagnitudeStandardDeviation
+1. `timeDomainBodyGyroscopeStandardDeviationX`
+1. `timeDomainBodyGyroscopeStandardDeviationY`
+1. `timeDomainBodyGyroscopeStandardDeviationZ`
 
-### Average and standard deviation of the time-domain magnitude of body angular velocity:
-timeDomainBodyGyroscopeMagnitudeMean
-timeDomainBodyGyroscopeMagnitudeStandardDeviation
+Average time-domain body angular velocity jerk (derivation of the angular velocity in time) in the X, Y and Z directions:
 
-### Average and standard deviation of the time-domain magnitude of body angular velocity jerk (derivation of the angular velocity in time):
-timeDomainBodyGyroscopeJerkMagnitudeMean
-timeDomainBodyGyroscopeJerkMagnitudeStandardDeviation
+1. `timeDomainBodyGyroscopeJerkMeanX`
+1. `timeDomainBodyGyroscopeJerkMeanY`
+1. `timeDomainBodyGyroscopeJerkMeanZ`
 
-### Average frequency-domain body acceleration in the X, Y and Z directions:
-frequencyDomainBodyAccelerometerMeanX
-frequencyDomainBodyAccelerometerMeanY
-frequencyDomainBodyAccelerometerMeanZ
+Standard deviation of the time-domain body angular velocity jerk (derivation of the angular velocity in time) in the X, Y and Z directions:
 
-### Standard deviation of the frequency-domain body acceleration in the X, Y and Z directions:
-frequencyDomainBodyAccelerometerStandardDeviationX
-frequencyDomainBodyAccelerometerStandardDeviationY
-frequencyDomainBodyAccelerometerStandardDeviationZ
+1. `timeDomainBodyGyroscopeJerkStandardDeviationX`
+1. `timeDomainBodyGyroscopeJerkStandardDeviationY`
+1. `timeDomainBodyGyroscopeJerkStandardDeviationZ`
 
-### Weighted average of the frequency components of the frequency-domain body acceleration in the X, Y and Z directions: 
-frequencyDomainBodyAccelerometerMeanFrequencyX
-frequencyDomainBodyAccelerometerMeanFrequencyY
-frequencyDomainBodyAccelerometerMeanFrequencyZ
+Average and standard deviation of the time-domain magnitude of body acceleration:
 
-### Average frequency-domain body acceleration jerk (derivation of the acceleration in time) in the X, Y and Z directions:
-frequencyDomainBodyAccelerometerJerkMeanX
-frequencyDomainBodyAccelerometerJerkMeanY
-frequencyDomainBodyAccelerometerJerkMeanZ
+1. `timeDomainBodyAccelerometerMagnitudeMean`
+1. `timeDomainBodyAccelerometerMagnitudeStandardDeviation`
 
-### Standard deviation of the frequency-domain body acceleration jerk (derivation of the acceleration in time) in the X, Y and Z directions:
-frequencyDomainBodyAccelerometerJerkStandardDeviationX
-frequencyDomainBodyAccelerometerJerkStandardDeviationY
-frequencyDomainBodyAccelerometerJerkStandardDeviationZ
+Average and standard deviation of the time-domain magnitude of gravity acceleration:
 
-### Weighted average of the frequency components of the frequency-domain body acceleration jerk (derivation of the acceleration in time) in the X, Y and Z directions:
-frequencyDomainBodyAccelerometerJerkMeanFrequencyX
-frequencyDomainBodyAccelerometerJerkMeanFrequencyY
-frequencyDomainBodyAccelerometerJerkMeanFrequencyZ
+1. `timeDomainGravityAccelerometerMagnitudeMean`
+1. `timeDomainGravityAccelerometerMagnitudeStandardDeviation`
 
-### Average frequency-domain body angular velocity in the X, Y and Z directions:
-frequencyDomainBodyGyroscopeMeanX
-frequencyDomainBodyGyroscopeMeanY
-frequencyDomainBodyGyroscopeMeanZ
+Average and standard deviation of the time-domain magnitude of body acceleration jerk (derivation of the acceleration in time):
 
-### Standard deviation of the frequency-domain body angular velocity in the X, Y and Z directions:
-frequencyDomainBodyGyroscopeStandardDeviationX
-frequencyDomainBodyGyroscopeStandardDeviationY
-frequencyDomainBodyGyroscopeStandardDeviationZ
+1. `timeDomainBodyAccelerometerJerkMagnitudeMean`
+1. `timeDomainBodyAccelerometerJerkMagnitudeStandardDeviation`
 
-### Weighted average of the frequency components of the frequency-domain body angular velocity in the X, Y and Z directions:
-frequencyDomainBodyGyroscopeMeanFrequencyX
-frequencyDomainBodyGyroscopeMeanFrequencyY
-frequencyDomainBodyGyroscopeMeanFrequencyZ
+Average and standard deviation of the time-domain magnitude of body angular velocity:
 
-### Average, standard deviation, and weighted average of the frequency components of the frequency-domain magnitude of body acceleration:
-frequencyDomainBodyAccelerometerMagnitudeMean
-frequencyDomainBodyAccelerometerMagnitudeStandardDeviation
-frequencyDomainBodyAccelerometerMagnitudeMeanFrequency
+1. `timeDomainBodyGyroscopeMagnitudeMean`
+1. `timeDomainBodyGyroscopeMagnitudeStandardDeviation`
 
-### Average, standard deviation, and weighted average of the frequency components of the frequency-domain magnitude of body acceleration jerk (derivation of the acceleration in time):
-`frequencyDomainBodyAccelerometerJerkMagnitudeMean`
-`frequencyDomainBodyAccelerometerJerkMagnitudeStandardDeviation`
-`frequencyDomainBodyAccelerometerJerkMagnitudeMeanFrequency`
+Average and standard deviation of the time-domain magnitude of body angular velocity jerk (derivation of the angular velocity in time):
 
-### Average, standard deviation, and weighted average of the frequency components of the frequency-domain magnitude of body angular velocity:
-`frequencyDomainBodyGyroscopeMagnitudeMean`
-`frequencyDomainBodyGyroscopeMagnitudeStandardDeviation`
-`frequencyDomainBodyGyroscopeMagnitudeMeanFrequency`
+1. `timeDomainBodyGyroscopeJerkMagnitudeMean`
+1. `timeDomainBodyGyroscopeJerkMagnitudeStandardDeviation`
 
-### Average, standard deviation, and weighted average of the frequency components of the frequency-domain magnitude of body angular velocity jerk (derivation of the angular velocity in time):
-`frequencyDomainBodyGyroscopeJerkMagnitudeMean`
-`frequencyDomainBodyGyroscopeJerkMagnitudeStandardDeviation`
-`frequencyDomainBodyGyroscopeJerkMagnitudeMeanFrequency`
+Average frequency-domain body acceleration in the X, Y and Z directions:
+
+1. `frequencyDomainBodyAccelerometerMeanX`
+1. `frequencyDomainBodyAccelerometerMeanY`
+1. `frequencyDomainBodyAccelerometerMeanZ`
+
+Standard deviation of the frequency-domain body acceleration in the X, Y and Z directions:
+
+1. `frequencyDomainBodyAccelerometerStandardDeviationX`
+1. `frequencyDomainBodyAccelerometerStandardDeviationY`
+1. `frequencyDomainBodyAccelerometerStandardDeviationZ`
+
+Weighted average of the frequency components of the frequency-domain body acceleration in the X, Y and Z directions: 
+
+1. `frequencyDomainBodyAccelerometerMeanFrequencyX`
+1. `frequencyDomainBodyAccelerometerMeanFrequencyY`
+1. `frequencyDomainBodyAccelerometerMeanFrequencyZ`
+
+Average frequency-domain body acceleration jerk (derivation of the acceleration in time) in the X, Y and Z directions:
+
+1. `frequencyDomainBodyAccelerometerJerkMeanX`
+1. `frequencyDomainBodyAccelerometerJerkMeanY`
+1. `frequencyDomainBodyAccelerometerJerkMeanZ`
+
+Standard deviation of the frequency-domain body acceleration jerk (derivation of the acceleration in time) in the X, Y and Z directions:
+
+1. `frequencyDomainBodyAccelerometerJerkStandardDeviationX`
+1. `frequencyDomainBodyAccelerometerJerkStandardDeviationY`
+1. `frequencyDomainBodyAccelerometerJerkStandardDeviationZ`
+
+Weighted average of the frequency components of the frequency-domain body acceleration jerk (derivation of the acceleration in time) in the X, Y and Z directions:
+
+1. `frequencyDomainBodyAccelerometerJerkMeanFrequencyX`
+1. `frequencyDomainBodyAccelerometerJerkMeanFrequencyY`
+1. `frequencyDomainBodyAccelerometerJerkMeanFrequencyZ`
+
+Average frequency-domain body angular velocity in the X, Y and Z directions:
+
+1. `frequencyDomainBodyGyroscopeMeanX`
+1. `frequencyDomainBodyGyroscopeMeanY`
+1. `frequencyDomainBodyGyroscopeMeanZ`
+
+Standard deviation of the frequency-domain body angular velocity in the X, Y and Z directions:
+
+1. `frequencyDomainBodyGyroscopeStandardDeviationX`
+1. `frequencyDomainBodyGyroscopeStandardDeviationY`
+1. `frequencyDomainBodyGyroscopeStandardDeviationZ`
+
+Weighted average of the frequency components of the frequency-domain body angular velocity in the X, Y and Z directions:
+
+1. `frequencyDomainBodyGyroscopeMeanFrequencyX`
+1. `frequencyDomainBodyGyroscopeMeanFrequencyY`
+1. `frequencyDomainBodyGyroscopeMeanFrequencyZ`
+
+Average, standard deviation, and weighted average of the frequency components of the frequency-domain magnitude of body acceleration:
+
+1. `frequencyDomainBodyAccelerometerMagnitudeMean`
+1. `frequencyDomainBodyAccelerometerMagnitudeStandardDeviation`
+1. `frequencyDomainBodyAccelerometerMagnitudeMeanFrequency`
+
+Average, standard deviation, and weighted average of the frequency components of the frequency-domain magnitude of body acceleration jerk (derivation of the acceleration in time):
+
+1. `frequencyDomainBodyAccelerometerJerkMagnitudeMean`
+1. `frequencyDomainBodyAccelerometerJerkMagnitudeStandardDeviation`
+1. `frequencyDomainBodyAccelerometerJerkMagnitudeMeanFrequency`
+
+Average, standard deviation, and weighted average of the frequency components of the frequency-domain magnitude of body angular velocity:
+
+1. `frequencyDomainBodyGyroscopeMagnitudeMean`
+1. `frequencyDomainBodyGyroscopeMagnitudeStandardDeviation`
+1. `frequencyDomainBodyGyroscopeMagnitudeMeanFrequency`
+
+Average, standard deviation, and weighted average of the frequency components of the frequency-domain magnitude of body angular velocity jerk (derivation of the angular velocity in time):
+1. `frequencyDomainBodyGyroscopeJerkMagnitudeMean`
+1. `frequencyDomainBodyGyroscopeJerkMagnitudeStandardDeviation`
+1. `frequencyDomainBodyGyroscopeJerkMagnitudeMeanFrequency`
+
+# Transformations
+
+The following transformations were done to the data
+ 1. The training and test sets were merged to create one data set.
+ 1. The measurements on the mean and standard deviation (i.e. signals containing the strings `mean` and `std`) were extracted for each measurement, and the others were discarded.
+ 1. The `Activity` variable (originally coded as integers ranging from 1 to 6) was replaced with descriptive names
+ 1. The variable names were replaced with descriptive names
+    * Special characters such as (,),- were removed
+    * Initial `f` and `t` abbreviations were expanded to `frequencyDomain` and `timeDomain` respectively
+    * `Acc`,`Gyro`,`Mag`,`Freq`,`mean`,`std` were expanded to `Accelerometer`,`Gyroscope`,`Magnitude`,`Frequency`,`Mean`,`StandardDeviation` respectively
+    * Corrected the mistake `BodyBody` to `Body`
+ 1. From the data set in step 4, the final data set was created with the average of each variable for each activity and each subject.
