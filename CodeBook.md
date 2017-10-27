@@ -24,18 +24,18 @@ Each row contains, for a given subject and activity, 79 averaged signal measurem
 		* `STANDING` : Subject was standing
 		* `LAYING` : Subject was laying down
 
-All measurements are floating-point values, normalised and bounded within [-1,1].
+ All measurements are floating-point values, normalised and bounded within [-1,1].
 
-Prior to normalisation, acceleration measurements (variables containing `Accelerometer`) were made in *g*'s (9.81 m.s⁻²) and gyroscope measurements (variables containing `Gyroscope`) were made in radians per second (rad.s⁻¹).
+ Prior to normalisation, acceleration measurements (variables containing `Accelerometer`) were made in *g*'s (9.81 m.s⁻²) and gyroscope measurements (variables containing `Gyroscope`) were made in radians per second (rad.s⁻¹).
 
-Magnitudes of three-dimensional signals (variables containing `Magnitude`) were calculated using the Euclidean norm.
+ Magnitudes of three-dimensional signals (variables containing `Magnitude`) were calculated using the Euclidean norm.
 
-The measurements are classified in two domains:
+ The measurements are classified in two domains:
 
-* Time-domain signals (variables prefixed with `timeDomain`), resulting from accelerometer and gyroscope raw signals.
-* Frequencey-domain signals (variables prefixed with `frequencyDomain`), resulting from the application of Fast Fourier Transform (FFT) to some of the time-domain signals.
+ * Time-domain signals (variables prefixed with `timeDomain`), resulting from accelerometer and gyroscope raw signals.
+ * Frequencey-domain signals (variables prefixed with `frequencyDomain`), resulting from the application of Fast Fourier Transform (FFT) to some of the time-domain signals.
 
-Average time-domain body acceleration in the X, Y and Z directions:
+ Average time-domain body acceleration in the X, Y and Z directions:
 
 3. **`timeDomainBodyAccelerometerMeanX`**
 4. `timeDomainBodyAccelerometerMeanY`
