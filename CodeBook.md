@@ -37,8 +37,8 @@ The measurements are classified in two domains:
 * Time-domain signals (variables prefixed with `timeDomain`), resulting from accelerometer and gyroscope raw signals.
 * Frequencey-domain signals (variables prefixed with `frequencyDomain`), resulting from the application of Fast Fourier Transform (FFT) to some of the time-domain signals.
 
-### Average time-domain body acceleration in the X, Y and Z directions:
-3. `timeDomainBodyAccelerometerMeanX`
+Average time-domain body acceleration in the X, Y and Z directions:
+3. **`timeDomainBodyAccelerometerMeanX`**
 4. `timeDomainBodyAccelerometerMeanY`
 5. `timeDomainBodyAccelerometerMeanZ`
 
